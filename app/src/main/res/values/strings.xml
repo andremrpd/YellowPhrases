@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yellow Phrases</string>
+    <string name="save">Save</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="error_message">Sorry… Homer lost your doughnuts</string>
+    <string name="try_again">Try Again</string>
+    <string name="homer_doh">Homer Doh!</string>
+    <string name="character_image">Character Image</string>
+</resources>
